@@ -1,0 +1,7 @@
+Warehouse Pick-and-Pack Optimization
+
+Given a warehouse with items placed at different locations, each having a weight and value,
+and a worker with a limited carrying capacity, design a system to:
+
+Select a subset of items such that total value is maximized without exceeding capacity.
+Determine the shortest path for the worker to collect all selected items inside the warehouse.
